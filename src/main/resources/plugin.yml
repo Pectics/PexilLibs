@@ -1,0 +1,6 @@
+name: PexilLibs
+version: '1.0.0'
+main: me.pectics.bukkit.lib.pexillibs.PexilLibs
+api-version: '1.21'
+load: STARTUP
+authors: [ Pectics ]
